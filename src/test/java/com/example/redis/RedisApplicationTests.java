@@ -1,3 +1,4 @@
+/*
 package com.example.redis;
 
 import org.junit.Test;
@@ -25,7 +26,8 @@ public class RedisApplicationTests {
     private RedissonClient redissonClient;
 
 
-   /* @Test
+   */
+/* @Test
     public void contextLoads() {
 
         ValueOperations valueOperations = redisTemplate.opsForValue();
@@ -41,7 +43,8 @@ public class RedisApplicationTests {
         }
         stopWatch.stop();
         System.out.println(stopWatch.prettyPrint());
-    }*/
+    }*//*
+
 
 
 
@@ -60,3 +63,4 @@ public class RedisApplicationTests {
         System.out.println(stopWatch.prettyPrint());
     }
 }
+*/
